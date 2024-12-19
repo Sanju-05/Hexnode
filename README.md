@@ -1,6 +1,6 @@
 # Hexnode
 
-# Duplicate the Hexnode UEM Solution Page
+# Recreate The Hexnode UEM Solution Page
 
 
 ## Objective
@@ -25,14 +25,16 @@ To set up and run the project, follow these steps:
 ## Implementation Details
 
 This project was created using the following technologies:
-  HTML: Markup language used for structuring the webpage.
-  JavaScript: Used for adding interactivity and managing dynamic content.
-  CSS: Custom styles applied to design and layout the webpage.
+- **HTML:** Markup language used for structuring the webpage.
+- **JavaScript:** Used for adding interactivity and managing dynamic content.
+- **CSS:** Custom styles applied to design and layout the webpage.
 
-Key Features
-    Responsive Design: The webpage adjusts smoothly to fit all screen sizes, providing a great experience on any device.
-    Custom Code: The entire layout and styling are built using custom code without using plugins.
-    Accurate Layout Match: The recreated webpage closely resembles the original Hexnode Kiosk Solution webpage in both layout and design.
+## Key Features
+
+- **Responsive Design:** The webpage adjusts smoothly to fit all screen sizes, providing a great experience on any device.
+- **Custom Code:** The entire layout and styling are built using custom code without using plugins.
+- **Accurate Layout Match:** The recreated webpage closely resembles the original Hexnode Kiosk Solution webpage in both layout and design.
+
 
 Usage
     Open index.html in your web browser to explore the webpage.
